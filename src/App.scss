@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.app {
+  height: 100%;
+}
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+.app-content {
+  background: #e4d9d9;
+  height: 95%;
+}
